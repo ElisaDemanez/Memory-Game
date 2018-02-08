@@ -1,0 +1,48 @@
+.row {
+
+        margin-top: 5px;
+        margin-bottom: 0%;
+}
+
+.col {
+
+        margin-bottom: 5px !important;
+        margin-top: 5px !important; 
+}
+
+.card 
+{
+
+        background-color: rgba(228, 228, 228, 0.452); 
+        width: 150px;
+        height: 150px;
+        margin: 1em;
+        font-size: 300%;
+}
+
+.center-align {
+
+        width: 100%;
+}
+
+.bg1 {
+        background-color: rgba(158, 80, 80, 0.452);
+}
+
+.bg2 {
+        background-color: rgba(56, 119, 31, 0.582);
+}
+.bg3 {
+        background-color: rgba(20, 53, 75, 0.418);
+}
+.bg4 {
+        background-color: rgba(75, 23, 62, 0.329);
+}
+.bg5 {
+        background-color: rgba(102, 95, 33, 0.377);
+}
+
+.bg6 {
+        background-color: rgba(35, 88, 86, 0.507);
+}
+
